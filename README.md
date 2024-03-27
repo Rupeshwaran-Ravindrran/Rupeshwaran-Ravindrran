@@ -7,25 +7,18 @@ I thrive on challenges and adapt my skillset to the project's needs.  Whether it
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/4f8ab40d-7b85-4c05-9f83-8272eab6c54e" width="240px"/>
-  
-
 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m a Computer Science student at **UTA** working on **Bio-medical Technologies**
-- 🤝 &nbsp; I’m looking for Internships and Fulltime Roles
+- 🤝 &nbsp; I’m looking for Internships and full-time roles
 - 🌱 &nbsp; I’m currently learning about Large Language Models 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1NuHhIu_3iTOZWG8HzfC8_fdXhXd4kGn2/view?usp=sharing)
 - 📚 &nbsp; When I am free, I develop games and play. Checkout my [Steam](https://s.team/p/qkn-dfdp/qnmhftpq) 
 
 <br>
-
-
-
-
-
-
-
+<br>
+<br>
 
 # <img align="center" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/7b734142-af85-429d-bbdd-3a990e7a45fa" /> Tool Box
 
