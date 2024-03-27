@@ -15,7 +15,7 @@ I thrive on challenges and adapt my skillset to the project's needs.  Whether it
 - 🔭 &nbsp; I’m a Computer Science student at **UTA** working on **Bio-medical Technologies**
 - 🤝 &nbsp; I’m looking for Internships and Fulltime Roles
 - 🌱 &nbsp; I’m currently learning about Large Language Models 
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1NuHhIu_3iTOZWG8HzfC8_fdXhXd4kGn2/view?usp=sharing)
 - 📚 &nbsp; When I am free, I develop games and play. Checkout my [Steam](https://s.team/p/qkn-dfdp/qnmhftpq) 
 
 <br>
