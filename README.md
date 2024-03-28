@@ -1,27 +1,18 @@
-# <img align="center" alt="Java" width="100px" style="padding-right:10px;" src= "https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/8244fded-5c57-4b91-add7-0d79fd5a6ced" /> Hey 👋, I'm Rupeshwaran Ravindrran 
+# <img align="center" alt="Java" width="100px" style="padding-right:10px;" src= "https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/8244fded-5c57-4b91-add7-0d79fd5a6ced" /> Hey 👋, I'm Rupeshwaran Ravindrran <br /> **`Software Engineer | Graduate Student | Game Dev`** <br />
 
-<a href='https://www.linkedin.com/in/rupeshravin'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='25px'/></a> Software Developer | Biomedical Technologies |  Cloud Computing |  Machine Learning 
+<img align="right" alt="GIF" src="https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/4f8ab40d-7b85-4c05-9f83-8272eab6c54e" width="300px"/>
 
-I thrive on challenges and adapt my skillset to the project's needs.  Whether it's building applications, Data Analysis, or exploring the world of ML, I'm always learning and excited to leverage new tech to create awesome things!
-<br/>
-<br/>
+"Enthusiastic graduate computer science student at UTA with a passion for biomedical technologies. Seeking full-time software roles to leverage expertise in machine learning and software development. Eager to contribute to innovative projects and make a meaningful impact in the tech industry."
 
-<img align="right" alt="GIF" src="https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/4f8ab40d-7b85-4c05-9f83-8272eab6c54e" width="240px"/>
+* 🌍  I'm based in Dallas/Texas
+* ✉️  You can contact me at [naidurupesh.2001@gmail.com](mailto:naidurupesh.2001@gmail.com)
+* 🧠  I'm learning Large Language Models and Generative AI
+* 🤝  I'm open to collaborating on Machine Learning and Generative Language Models
+* 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1NuHhIu_3iTOZWG8HzfC8_fdXhXd4kGn2/view?usp=sharing)
+* 📚 &nbsp; I develop games and love to play. Checkout my [Steam](https://s.team/p/qkn-dfdp/qnmhftpq)
 
-### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m a Computer Science student at **UTA** working on **Bio-medical Technologies**
-- 🤝 &nbsp; I’m looking for Internships and full-time roles
-- 🌱 &nbsp; I’m currently learning about Large Language Models 
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1NuHhIu_3iTOZWG8HzfC8_fdXhXd4kGn2/view?usp=sharing)
-- 📚 &nbsp; When I am free, I develop games and play. Checkout my [Steam](https://s.team/p/qkn-dfdp/qnmhftpq) 
-
-<br>
-<br>
-<br>
-
-# <img align="center" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/7b734142-af85-429d-bbdd-3a990e7a45fa" /> Tool Box
-
+# <img align="center" alt="Java" width="35px" style="padding-right:10px;" src="https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/7b734142-af85-429d-bbdd-3a990e7a45fa" /> **`Tool Box`**
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -40,9 +31,7 @@ I thrive on challenges and adapt my skillset to the project's needs.  Whether it
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <br />
 
-#
-
-#  <img align="center" alt="Java" width="60px" style="padding-right:10px;" src= "https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/6b9f682b-4981-404f-82a5-5a0996d53452"/> Stats!
+#  <img align="center" alt="Java" width="60px" style="padding-right:10px;" src= "https://github.com/Rupeshwaran-Ravindrran/Rupeshwaran-Ravindrran/assets/79376089/6b9f682b-4981-404f-82a5-5a0996d53452"/> **`Stats!`**
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rupeshwaran-Ravindrran&theme=swift&hide_border=false)<br/>
