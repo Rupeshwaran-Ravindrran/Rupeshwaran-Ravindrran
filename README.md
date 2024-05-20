@@ -8,7 +8,7 @@
 * ✉️  You can contact me at [rupeshravin@gmail.com](mailto:rupeshravin@gmail.com)
 * 🧠  I'm learning Large Language Models and Generative AI
 * 🤝  I'm open to collaborating on Machine Learning and Generative Language Models
-* 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1NuHhIu_3iTOZWG8HzfC8_fdXhXd4kGn2/view?usp=sharing)
+* 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1N732bQ5O6ywl7-NLLBgLsfQico5jRmLy/view?usp=sharing)
 * 📚 &nbsp; I develop games and love to play. Checkout my [Steam](https://s.team/p/qkn-dfdp/qnmhftpq)
 
 
