@@ -5,7 +5,7 @@
 "Enthusiastic graduate computer science student at UTA with a passion for biomedical technologies. Seeking full-time software roles to leverage expertise in machine learning and software development. Eager to contribute to innovative projects and make a meaningful impact in the tech industry."
 
 * 🌍  I'm based in Dallas/Texas
-* ✉️  You can contact me at [naidurupesh.2001@gmail.com](mailto:naidurupesh.2001@gmail.com)
+* ✉️  You can contact me at [rupeshravin@gmail.com](mailto:rupeshravin@gmail.com)
 * 🧠  I'm learning Large Language Models and Generative AI
 * 🤝  I'm open to collaborating on Machine Learning and Generative Language Models
 * 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1NuHhIu_3iTOZWG8HzfC8_fdXhXd4kGn2/view?usp=sharing)
